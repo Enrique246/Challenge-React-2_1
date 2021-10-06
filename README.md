@@ -1,2 +1,2 @@
-# Challenge-React-2_1
+# React-Challenge_2
 Created with CodeSandbox
